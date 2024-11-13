@@ -262,9 +262,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aditya Prakash  
-Twitter - [@adityaprakash_t](https://twitter.com/adityaprakash_t)  
-Email - [adityaprakash.work@gmail.com](mailto:adityaprakash.work@gmail.com)
+Aryan Tyagi  
+Linkedin - [@aryantyagi](https://www.linkedin.com/in/aryan-tyagi-258627200/)  
+Email - [adityaprakash.work@gmail.com](mailto:aryantyagi251201@gmail.com)
 
 
 Project Link: [https://github.com/adityaprakash-work/OptiHive](https://github.com/adityaprakash-work/OptiHive)
