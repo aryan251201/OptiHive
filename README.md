@@ -264,10 +264,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Aryan Tyagi  
 Linkedin - [@aryantyagi](https://www.linkedin.com/in/aryan-tyagi-258627200/)  
-Email - [adityaprakash.work@gmail.com](mailto:aryantyagi251201@gmail.com)
+Email - [aryantyagi251201@gmail.com](mailto:aryantyagi251201@gmail.com)
 
 
-Project Link: [https://github.com/adityaprakash-work/OptiHive](https://github.com/adityaprakash-work/OptiHive)
+Project Link: [https://github.com/aryan251201/OptiHive.git](https://github.com/aryan251201/OptiHive.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
